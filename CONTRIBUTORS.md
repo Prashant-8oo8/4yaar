@@ -29,6 +29,27 @@ This project grows through the ideas, effort, and creativity of its contributors
       </p>
       <p><b>Skills</b><br/>Go · React · PostgreSQL</p>
     </td>
+    <td align="center" bgcolor="#172554" width="300" style="border-radius: 20px; padding:20px;" >
+      <img
+        src="https://github.com/Sidd231.png"
+        width="120"
+        height="120"
+        alt="Sidd231's profile photo"
+        style="border-radius:50%; object-fit:cover;"
+      />
+      <h3>MY NAME</h3>
+      <p><b>Malik</b></p>
+      <p>
+        <a href="https://github.com/Sidd231">
+          GitHub Profile
+        </a>
+      </p>
+      <p>
+        <i>"Samosa"</i>
+      </p>
+      <p><b>Skills</b><br/>Time pass</p>
+    </td>
+    
     <!-- Add your card here -->
     
   </tr>
