@@ -17,7 +17,7 @@ This project grows through the ideas, effort, and creativity of its contributors
         alt="Prashant-8oo8's profile photo"
         style="border-radius:50%; object-fit:cover;"
       />
-      <h3>YOUR NAME</h3>
+      <h3>Prashant Mishra</h3>
       <p><b>Sasti Masti Manager</b></p>
       <p>
         <a href="https://github.com/Prashant-8oo8">
