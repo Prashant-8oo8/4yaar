@@ -1,0 +1,25 @@
+# Module Documentation Index
+
+This folder contains implementation guidance for each major part of the 4Yaar.
+
+- [Architecture](architecture.md)
+- [Backend](backend.md)
+- [Frontend](frontend.md)
+- [Authentication](authentication.md)
+- [Storage](storage.md)
+- [GraphDB / Neo4j](graphdb.md)
+- [gRPC](grpc.md)
+- [WebSockets](websocket.md)
+- [Email](email.md)
+- [GitHub integration](github.md)
+- [File sharing](file-sharing.md)
+- [Testing](testing.md)
+- [Docker](docker.md)
+- [Kubernetes](kubernetes.md)
+- [Cloud / AWS](cloud.md)
+- [CI/CD](ci-cd.md)
+- [Security](security.md)
+- [Observability](observability.md)
+- [HTTP API](api.md)
+- [Development setup](development-setup.md)
+- [Roadmap](roadmap.md)
