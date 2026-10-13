@@ -50,7 +50,27 @@ This project grows through the ideas, effort, and creativity of its contributors
       <p><b>Skills</b><br/>Time pass</p>
     </td>
     
-    <!-- Add your card here -->
+  </td>
+    <td align="center" bgcolor="#172554" width="300" style="border-radius: 20px; padding:20px;" >
+      <img
+        src="https://github.com/Goku700-beep.png"
+        width="120"
+        height="120"
+        alt="Goku700-beep's profile photo"
+        style="border-radius:50%; object-fit:cover;"
+      />
+      <h3>Harsh</h3>
+      <p><b>HR</b></p>
+      <p>
+        <a href="https://github.com/Goku700-beep">
+          GitHub Profile
+        </a>
+      </p>
+      <p>
+        <i>"Misti doi"</i>
+      </p>
+      <p><b>Skills</b><br/>Gyan Ki baatein</p>
+    </td>
     
   </tr>
 </table>
