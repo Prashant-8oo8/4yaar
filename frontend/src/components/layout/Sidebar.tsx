@@ -23,9 +23,7 @@ export const Sidebar: React.FC<SidebarProps> = ({ onOpenCreateRoom }) => {
         {/* Brand Bar */}
         <div className="h-14 px-4 flex items-center justify-between border-b border-brand-border shrink-0">
           <div className="flex items-center gap-2.5">
-            <div className="w-5 h-5 rounded bg-brand-amber/15 border border-brand-amber/30 flex items-center justify-center">
-              <span className="w-2 h-2 rounded-full bg-brand-amber" />
-            </div>
+            <img src="/4yaar.png" alt="4Yaar Logo" className="w-6 h-6 rounded object-contain" />
             <span className="font-display font-bold tracking-tight text-brand-textHeading text-[15px] flex items-center gap-1.5">
               4Yaar
               <span className="inline-block w-1.5 h-1.5 rounded-full bg-brand-amber" />
